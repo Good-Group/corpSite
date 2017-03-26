@@ -1,0 +1,6 @@
+.about_pic {
+width:346px;
+height:165px;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/world_map.png',sizingMethod='scale');
+margin-top: 40px;
+}
